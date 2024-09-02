@@ -25,4 +25,4 @@ Welcome to my Projects repository! This repository contains a collection of smal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mini-projects.git
+   git clone https://github.com/PapaYaw-Boampong/WebDev-Projects.git
