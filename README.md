@@ -5,8 +5,8 @@ Welcome to my Projects repository! This repository contains a collection of smal
 
 ## Table of Contents
 
-- [Project 1](#Simone_Game)
-- [Project 1](#Dice_Game)
+- [Simone Game](#Simone_Game)
+- [Dice Game](#Dice_Game)
 
 
 ## Simone_Game
