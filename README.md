@@ -5,10 +5,10 @@ Welcome to my Projects repository! This repository contains a collection of smal
 
 ## Table of Contents
 
-- [Project 1](#Simone Game)
+- [Project 1](#Simone_Game)
 
 
-## Simone Game
+## Simone_Game
 
 **Description**: A remake of the classic simone game that test memory by pattern tracing.  
 **Tech Stack**: HTML, CSS, JavaScript  
