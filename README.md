@@ -6,11 +6,17 @@ Welcome to my Projects repository! This repository contains a collection of smal
 ## Table of Contents
 
 - [Project 1](#Simone_Game)
+- [Project 1](#Dice_Game)
 
 
 ## Simone_Game
 
 **Description**: A remake of the classic simone game that test memory by pattern tracing.  
+**Tech Stack**: HTML, CSS, JavaScript  
+
+## Dice_Game
+
+**Description**: A two player dice game that determines a winner based on the player with the highest dice score.  
 **Tech Stack**: HTML, CSS, JavaScript  
 
 
