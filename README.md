@@ -5,7 +5,7 @@ Welcome to my Projects repository! This repository contains a collection of smal
 
 ## Table of Contents
 
-- [Project 1](#project-1)
+- [Project 1](#Simone Game)
 
 
 ## Simone Game
